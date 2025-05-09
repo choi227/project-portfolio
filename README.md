@@ -18,6 +18,7 @@ Django 기반의 개인 프로젝트 포트폴리오 웹사이트입니다.
 
 ---
 http://localhost:8000/
+
 http://localhost:8000/admin
 ---
 admin 아이디 및 비밀번호
